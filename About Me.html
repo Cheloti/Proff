@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>About Me</title>
+    <style>
+        header{
+            background-color:red;
+        }
+        h1{
+            color: blue;
+        }
+        p{
+            font-style: italic;
+            color:green;
+            font-size: large;
+        }
+    </style>
+</head>
+<body>
+    <div class="Menu bar">
+        <ul>
+            <h3>
+                <button><li><a href="About%20Me.html">About Me</a> </li></button>
+                <button><li><a href="Home2.html">Home</a> </li></button>
+            </h3>
+        </ul>
+    </div>
+    <section>
+        <h1>PROJECT IDEAS</h1>
+        <p>Anomally Detection</p>
+        <p>Crime Mapping</p>
+        <p>Regional Subsidence and Disaster Mapping</p>
+    </section>
+</body>
+</html>
